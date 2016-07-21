@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>radioList</key>
+	<array>
+		<dict>
+			<key>nameShort</key>
+			<string>Soul</string>
+			<key>name</key>
+			<string>Vintage Soul</string>
+			<key>url</key>
+			<string>http://ice.somafm.com/poptron</string>
+			<key>image</key>
+			<string>http://somafm.com/img/7soul120.png</string>
+		</dict>
+		<dict>
+			<key>nameShort</key>
+			<string>Sneaky</string>
+			<key>name</key>
+			<string>Secret Agent Music</string>
+			<key>url</key>
+			<string>http://ice.somafm.com/secretagent</string>
+			<key>image</key>
+			<string>http://somafm.com/img/secretagent120.jpg</string>
+		</dict>
+		<dict>
+			<key>nameShort</key>
+			<string>Lounge</string>
+			<key>name</key>
+			<string>Lounge</string>
+			<key>url</key>
+			<string>http://ice.somafm.com/illstreet</string>
+			<key>image</key>
+			<string>http://somafm.com/img/illstreet.jpg</string>
+		</dict>
+	</array>
+</dict>
+</plist>
